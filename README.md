@@ -6,7 +6,7 @@
 const myProfile = {
   name: "Evelyn VPírez",
   experience: "Web Development",
- role: "Front End Developer",
+ role: "FrontEnd Developer",
      projects: [
      {
        🌱 I’m currently working on learning more!!!
@@ -18,7 +18,9 @@ const myProfile = {
     languages: ["JavaScript", "HTML", "CSS"],
    tools: ["React", "Firebase", "Figma", "GitHub"],
     icons: {
-      [![My Skills](https://skillicons.dev/icons?i=ai,github,codepen,git,js,html,css,java,firebase,nodejs,jest,figma,react,vercel,vite,vscode,wordpress&theme=light)](https://skillicons.dev)
+          ["ai", "github", "codepen", "git",
+           "html", "css", "javascript", "firebase", "jest", "npm", "zeplin",
+           "nodejs, "figma", "react", "vercel", "vite", "vscode", "wordpress"],
     },
 },
 console.log(myProfile);
