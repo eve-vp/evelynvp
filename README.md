@@ -18,9 +18,9 @@ const myProfile = {
     languages: ["JavaScript", "HTML", "CSS"],
     tools: ["React", "Firebase", "Figma", "GitHub"],
     more tools 👩‍💻: {
-          ["ai", "github", "codepen", "git",
-           "html", "css", "javascript", "firebase", "jest", "npm", "zeplin",
-           "nodejs, "figma", "react", "vercel", "vite", "vscode", "wordpress"],
+          ["ai", "github projects", "codepen", "git",
+           "axios", "jest", "npm-scripts", "zeplin", "markdown",
+           "nodejs, "react", "vercel", "vite", "vscode", "wordpress"],
     },
 },
 console.log(myProfile);
