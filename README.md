@@ -6,18 +6,18 @@
 const myProfile = {
   name: "Evelyn VPírez",
   experience: "Web Development",
- role: "FrontEnd Developer",
+  role: "FrontEnd Developer",
      projects: [
      {
-       🌱 I’m currently working on learning more!!!
+       🌱 I’m currently working on learning more🎓!!!
        🤔 I’m looking… 
     }
     ],
   },
   skills: {
     languages: ["JavaScript", "HTML", "CSS"],
-   tools: ["React", "Firebase", "Figma", "GitHub"],
-    icons: {
+    tools: ["React", "Firebase", "Figma", "GitHub"],
+    more tools 👩‍💻: {
           ["ai", "github", "codepen", "git",
            "html", "css", "javascript", "firebase", "jest", "npm", "zeplin",
            "nodejs, "figma", "react", "vercel", "vite", "vscode", "wordpress"],
